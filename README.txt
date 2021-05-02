@@ -5,3 +5,5 @@ Dans ce dossier vous retrouverez plusieurs fichiers, d'abord un fichier "DataSet
 Vous trouverez également un ".py" qui est le code source du projet.
 Il y aussi un NoteBook ".ipynb" qui vous permettra d'avoir une meilleure vision sur le code et les commentaires.
 Et enfin vous avez le ".pdf" décrivant le projet.
+
+[Lien vers la base de données](https://www.kaggle.com/c/nyc-taxi-trip-duration/data?select=train.zip)
